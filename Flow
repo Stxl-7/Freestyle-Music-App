@@ -1,0 +1,22 @@
+FLOW:
+
+1. Login 
+2. Add users to cypher circle (assemble cypher) 
+3. Select/upload instrumental 
+4. Set instrumental time or loop instrumental 
+5. Set user time 
+6. Start Cypher 
+7. Record (optional) 
+8. Cypher Ends when instruemtal time is up 
+ 
+ 
+Users must all be logged into app in order to join cypher circle 
+ 
+Users select numerical order that they will rap in in cypher  
+ 
+Users avatars appear in cypher circle in correct order 
+ 
+Users select instrumental and other features of cypher 
+ 
+Green indicates active cypher user while red indicates waiting cypher users 
+ 
